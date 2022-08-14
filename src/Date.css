@@ -1,0 +1,18 @@
+.App{
+    text-align: center;
+    height: 50px;
+    background-color: rgb(39, 174, 192);
+    font-weight: 600;
+    font-size: x-large;
+    font-style: italic;
+    font-style: initial;
+    margin: 8px;
+}
+#fatcgApi{
+    background-color: brown;
+    
+}
+.watch{ background-color: aqua;
+    height: 50px;
+    
+}

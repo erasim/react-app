@@ -1,0 +1,36 @@
+#Navbar{
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    background-color: blueviolet;
+    height: 50px;   
+    color: white; 
+    margin-bottom: 5px;;
+
+}
+#body{
+    text-align: center;
+    
+}
+#count{
+    text-align: center;
+}
+#btn1{
+    width: 200px;
+    background-color: blueviolet;
+    height: 50px;
+    border-radius: 5px;
+    margin: 8px;
+    font-size: larger;
+}
+#btn2{
+    width: 200px;
+    background-color: aqua;
+    height: 50px;
+    border-radius: 5px;
+    margin: 8px;
+    font-size: larger;
+}
+#text{
+    height: 50px;;
+}
