@@ -5,7 +5,8 @@ import Counter from './Counter';
 import CustomDate from './Date';
 import reportWebVitals from './reportWebVitals';
 import Fatchapi from './Fatchapi';
-import StopWatch from './StopWatch';
+import StopWatch from './StopWatch/StopWatch';
+import Crud from "./react-crud-app/Crud";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -15,6 +16,7 @@ root.render(
       <Counter />
       <Fatchapi />
       <StopWatch/>
+      <Crud/>
     </React.Fragment>
   </React.StrictMode>
 
