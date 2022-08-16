@@ -14,7 +14,7 @@ return (
 	
 	<Router>
 	<Routes>
-	<Route path='/react-app' element={<Home/>}/>
+	<Route path='https://erasim.github.io/react-app/' element={<Home/>}/>
 		<Route path='/' element={<Home/>}/>
 		<Route  path='/create' element={<Create/>}/>
 		<Route path='/edit' element={<Edit/>}/>
