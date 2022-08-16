@@ -11,13 +11,15 @@ function App() {
 return (
 	<div className='App' >
 
-	<HashRouter>
+	{/* <HashRouter> */}
+	<Router>
 	<Routes>
 		<Route path='/' element={<Home/>}/>
 		<Route  path='/create' element={<Create/>}/>
 		<Route path='/edit' element={<Edit/>}/>
 	</Routes>
-	</HashRouter>
+	</Router>
+	{/* </HashRouter> */}
 </div>
 );
 
