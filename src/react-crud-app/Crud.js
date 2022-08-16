@@ -11,7 +11,7 @@ function App() {
 return (
 	<div className='App' >
 
-	{/* <HashRouter> */}
+	
 	<Router>
 	<Routes>
 		<Route path='/' element={<Home/>}/>
@@ -19,7 +19,7 @@ return (
 		<Route path='/edit' element={<Edit/>}/>
 	</Routes>
 	</Router>
-	{/* </HashRouter> */}
+
 </div>
 );
 
